@@ -1,0 +1,15 @@
+baseurl = "ipat.id"
+title = "ipat.id"
+languageCode = "ko-KR"
+
+themes = "hugo-hello-programmer-theme"
+themesdir = "../.."
+
+paginate = 2
+
+disqusShortname = "XXXX"
+googleAnalytics = "UA-XXXXXXXX-X"
+
+[author]
+    name = "Patriot Kusuma Sejati"
+    email = "patriot.kusumasejati@gmail.com"
